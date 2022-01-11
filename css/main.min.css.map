@@ -4,7 +4,7 @@
     "sources": [
         "../sass/main.scss",
         "../sass/utils/_variables.scss",
-        "../sass/components/_global-styles.scss",
+        "../sass/base/_global-styles.scss",
         "../sass/components/_page-header.scss",
         "../sass/components/_logo.scss",
         "../sass/components/_navigation.scss",
